@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brian Arriaga -- brian.arriaga@gmail.com -- @baxtor95
 
 # THANKS
 
